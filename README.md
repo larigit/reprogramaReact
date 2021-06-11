@@ -4,7 +4,6 @@ Neste repositório foi feito um projeto simples para treinar React e suas especi
 
 
 
-
 O projeto foi feito do zero com o uso do comando:
 > yarn create react-app my-app 
 
