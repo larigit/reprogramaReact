@@ -8,7 +8,7 @@ O projeto foi feito do zero com o uso do comando:
 > yarn create react-app my-app 
 
 
-Onde, após o processo de criação do projeto, algumas pastas e arquivos desnecessários foram excluidos e então foi feito o desafio proposto pela professora da {reprograma} que está descrito neste [repositorio](https://github.com/larigit/On10-TodasEmTEch-ReactI).
+Onde, após o processo de criação do projeto, algumas pastas e arquivos desnecessários foram excluidos e então foi feito o desafio proposto pela professora da [{reprograma}](https://reprograma.com.br/) que está descrito neste [repositorio](https://github.com/larigit/On10-TodasEmTEch-ReactI).
 
 
 Neste projeto, foi feita componentização para melhor aproveitamento e clareza do código. Também foi utilizado o 'react bootstrap' para estilização da página. 
@@ -20,7 +20,7 @@ Neste projeto, foi feita componentização para melhor aproveitamento e clareza 
 - React Bootstrap
 
 
-O resultado você pode conferir neste [link]().
+O resultado você pode conferir neste [link](https://react-app-with-reprograma.netlify.app/).
 
 Abaixo, fotos da página: 
 
