@@ -3,7 +3,7 @@ import AnimalsList from './components/AnimalsList'
 
 function App() {
   return (
-    <div>
+    <div style={{backgroundColor:"#5e6459"}}>
       <Title title="Meu Primeiro Projeto React do Zero"/>
       <AnimalsList />
     </div>

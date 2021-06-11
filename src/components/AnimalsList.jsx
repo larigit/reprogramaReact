@@ -8,7 +8,7 @@ function AnimalsList() {
             <CardDeck>
                 {animals.map(animal=>{
                     return(
-                        <Card className="mt-2" style={{ width: '18rem'}}>
+                        <Card className="mt-2 mb-4" style={{ width: '18rem'}}>
                             <Card.Img variant="top" src="holder.js/100px180" src={animal.image} />
                             <Card.Body>
                                 <Card.Title>{animal.id}: {animal.name}</Card.Title>
