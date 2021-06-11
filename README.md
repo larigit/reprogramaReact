@@ -24,5 +24,15 @@ Neste projeto, foi feita componentização para melhor aproveitamento e clareza 
 O resultado você pode conferir neste [link]().
 
 Abaixo, fotos da página: 
+
+
+
 ![](assets/app_1.png)
 ![](assets/app_2.png)
+
+
+
+
+
+
+
