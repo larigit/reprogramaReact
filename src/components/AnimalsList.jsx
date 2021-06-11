@@ -6,7 +6,7 @@ function AnimalsList() {
     return(
         <div>
             <CardDeck>
-                {animals.map(animal=>{
+                {(animals).map(animal=>{
                     return(
                         <Card className="mt-2 mb-4" style={{ width: '18rem'}}>
                             <Card.Img variant="top" src="holder.js/100px180" src={animal.image} />
